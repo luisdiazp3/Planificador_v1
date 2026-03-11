@@ -45,14 +45,6 @@ La app estará disponible en: `http://localhost:8501`
 
 ---
 
-## ☁️ Deploy en Streamlit Community Cloud
-
-1. Sube el repositorio a GitHub
-2. Ve a [share.streamlit.io](https://share.streamlit.io)
-3. Conecta tu repo y selecciona `Planificador_1.py`
-4. En **Settings → Secrets**, agrega tu `GROQ_API_KEY`
-
----
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -75,4 +67,4 @@ La app estará disponible en: `http://localhost:8501`
 
 ## 📄 Licencia
 
-Desarrollado para uso educativo en el marco del sistema educativo peruano (MINEDU / DITE).
+Desarrollado para uso educativo en el marco del sistema educativo.
