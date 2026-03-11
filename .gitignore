@@ -1,0 +1,30 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Secrets y variables de entorno (¡NUNCA subir al repo!)
+.streamlit/secrets.toml
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Word generados por la app
+respuesta.docx
+*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
