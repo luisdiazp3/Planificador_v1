@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain_core.prompts import PromptTemplate
-#from langchain_community.chat_models import ChatModel
+
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
 from langchain_community.chat_models import ChatOpenAI
@@ -363,3 +363,4 @@ if download:
 
 # Nota informativa para los usuarios
 st.info("⚠️ Recuerda que los modelos de inteligencia artificial pueden cometer errores, revisa y complementa la información brindada.")
+
